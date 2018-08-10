@@ -1,0 +1,36 @@
+<annotation>
+    <folder>53</folder>
+    <filename> das.png</filename>
+    <size>
+        <width>1736</width>
+        <height>931</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1259</xmin>
+            <ymin>766</ymin>
+            <xmax>1532</xmax>
+            <ymax>899</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>756</xmin>
+            <ymin>328</ymin>
+            <xmax>988</xmax>
+            <ymax>444</ymax>
+        </bndbox>
+    </object>
+</annotation>
